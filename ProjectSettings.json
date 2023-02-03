@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Dissolve",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2023-02-03T01:58:18.8090795-05:00",
+  "AllCreatedChips": [
+    "OR",
+    "XOR",
+    "MUX",
+    "ADDER",
+    "NAND",
+    "4BIT ADDER"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "OR",
+    "XOR",
+    "MUX",
+    "ADDER",
+    "NAND",
+    "4BIT ADDER"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 1
+  }
+}
