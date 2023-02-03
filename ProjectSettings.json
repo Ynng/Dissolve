@@ -8,7 +8,11 @@
     "MUX",
     "ADDER",
     "NAND",
-    "4BIT ADDER"
+    "4BIT ADDER",
+    "ALU",
+    "AND 3",
+    "2-to-4 Decoder",
+    "3-to-8 Decoder"
   ],
   "StarredChips": [
     "AND",
@@ -18,7 +22,9 @@
     "MUX",
     "ADDER",
     "NAND",
-    "4BIT ADDER"
+    "4BIT ADDER",
+    "ALU",
+    "2-to-4 Decoder"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 1,
