@@ -12,7 +12,13 @@
     "ALU",
     "AND 3",
     "2-to-4 Decoder",
-    "3-to-8 Decoder"
+    "3-to-8 Decoder",
+    "NOR",
+    "S-R Latch",
+    "D Latch",
+    "DFF",
+    "TFF",
+    "JKFF"
   ],
   "StarredChips": [
     "AND",
@@ -20,11 +26,15 @@
     "OR",
     "XOR",
     "MUX",
-    "ADDER",
     "NAND",
-    "4BIT ADDER",
     "ALU",
-    "2-to-4 Decoder"
+    "NOR",
+    "S-R Latch",
+    "D Latch",
+    "CLOCK",
+    "DFF",
+    "TFF",
+    "JKFF"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 1,
